@@ -81,8 +81,8 @@ GROUP BY c.name;
 ---
 
 ## ⚙️ Installation
-git clone https://github.com/<your-username>/food-clearance.git  
-cd food-clearance  
+git clone https://github.com/<your-username>/food-clearance-ecom-.git  
+cd food-clearance-ecom-  
 composer install  
 npm install && npm run dev  
 cp .env.example .env  
