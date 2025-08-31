@@ -21,7 +21,7 @@ It’s more than just software — it’s an effort to **reduce waste, cut costs
 ---
 
 ## 🏗️ Project Structure
-food-clearance/  
+Food-Clearance-Ecom-MySQL-database/  
 ├─ app/                # Controllers, Models, Middleware  
 ├─ bootstrap/          # Laravel bootstrap files  
 ├─ config/             # Configuration (auth, DB, mail, etc.)  
@@ -81,8 +81,8 @@ GROUP BY c.name;
 ---
 
 ## ⚙️ Installation
-git clone https://github.com/<your-username>/food-clearance-ecom-.git  
-cd food-clearance-ecom-  
+git clone https://github.com/<your-username>/Food-Clearance-Ecom-MySQL-database.git  
+cd Food-Clearance-Ecom-MySQL-database  
 composer install  
 npm install && npm run dev  
 cp .env.example .env  
